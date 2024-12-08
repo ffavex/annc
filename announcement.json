@@ -1,5 +1,10 @@
 {
-  "Enabled": true,
+  "Enabled": false,
   "Title": "Update Released",
   "Content": "Version 1.0!"
+}
+{
+  "Maintenance": true,
+  "Title": "Sorry, be back soon!",
+  "Content": "Servers are under maintenance."
 }
