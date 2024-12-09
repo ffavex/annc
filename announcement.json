@@ -4,7 +4,7 @@
   "Content": "Version 1.0!"
 }
 {
-  "Maintenance": true,
-  "Title": "Sorry, be back soon!",
-  "Content": "Servers are under maintenance."
+  "Maintenance": false,
+  "Title2": "Sorry, be back soon!",
+  "Content2": "Servers are under maintenance."
 }
