@@ -1,8 +1,8 @@
 {
-  "Enabled": true,
+  "Enabled": false,
   "Title": "Update Released",
   "Content": "Version 1.0!",
-  "Maintenance": false,
+  "Maintenance": true,
   "Title2": "Sorry, be back soon!",
   "Content2": "Servers are under maintenance."
 }
