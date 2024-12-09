@@ -1,9 +1,7 @@
 {
   "Enabled": true,
   "Title": "Update Released",
-  "Content": "Version 1.0!"
-}
-{
+  "Content": "Version 1.0!",
   "Maintenance": false,
   "Title2": "Sorry, be back soon!",
   "Content2": "Servers are under maintenance."
